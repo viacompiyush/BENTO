@@ -11,6 +11,7 @@
 		"admsDebugLoggingEnabled" : true,
 		"admsOfflineTrackingEnabled" : true,
 		"audienceManagerEnabled" : true,
+		"pageName" : "coda",
 		"comScoreEnabled" : false
 	}
 ]
