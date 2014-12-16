@@ -2,7 +2,7 @@
     {
         "linkName" : "dev/bento/remote/link",
         "prop1"    : "remote value of prop 1",
-        "pageName" : "cod",
+        "pageName" : "dev/bento/remote/testrig",
         "prop11"    : "remote value of prop 11 tracklink",
         "prop74"    : "remote value of prop 74 tracklink",
         "prop75"    : "remote value of prop 75 tracklink",
