@@ -11,7 +11,6 @@
 		"admsDebugLoggingEnabled" : true,
 		"admsOfflineTrackingEnabled" : true,
 		"audienceManagerEnabled" : true,
-		"pageName" : "coda",
 		"comScoreEnabled" : true,
 		"admsContextData"   : {
 			"contextDataKey1onconfig"    : "testcontextvalue1onconfig",
