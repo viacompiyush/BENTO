@@ -4,7 +4,7 @@
 		"audienceManagerEnabled" : "true",
 		"omnitureEnabled" : "true",
 		"omnitureSuite"   : "test1234",
-		"omnitureChannel" : "Test Rig Channel",
+		"omnitureChannel" : "Channel",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "USD",
 		"omnitureSSL" : "false",
