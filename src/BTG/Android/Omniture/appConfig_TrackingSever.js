@@ -8,7 +8,7 @@
 		"omnitureCurrencyCode" : "USD",
 		"omnitureSSL" : "false",
 		"omnitureLifecycleSessionTimeout" : "300",
-		"omnitureTrackingServer" : "dte.test.com",
+		"omnitureTrackingServer" : "",
 		"omnitureVisitorID" : "",
 		"omnitureDebugLogging" : "true",
 		"omnitureOfflineTrackingEnabled" : "true",
