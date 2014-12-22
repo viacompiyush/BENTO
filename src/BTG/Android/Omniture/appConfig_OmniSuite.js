@@ -4,7 +4,7 @@
 		"audienceManagerEnabled" : "true",
 		"omnitureEnabled" : "true",
 		"omnitureSuite"   : "viarnd",
-		"omnitureChannel" : "NULL",
+		"omnitureChannel" : "channel_channel",
 		"omnitureCharSet" : "UTF-8",
 		"omnitureCurrencyCode" : "USD",
 		"omnitureSSL" : "false",
