@@ -13,7 +13,7 @@
 		"omnitureVisitorID" : "",
 		"omnitureDebugLogging" : "true",
 		"omnitureOfflineTrackingEnabled" : "false",
-		"omnitureOfflineHitLimit" : 200,
+		"omnitureOfflineHitLimit" : 2,
 		"demdexEnabled" : "true",
 		"TVEEnabled" : "true",
 		"omnitureContextData" : {"v.dummyContext1":"Klim Test Data","v.dummyContext2":"Klim_test_data", "dummyContext12":"app12","nick.game": "app1"},
