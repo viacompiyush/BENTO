@@ -20,6 +20,6 @@
 	"omnitureTimetrackingEnabled": "true",
 	"doubleclickEnabled": "true",
 	"doubleClickStaticAdAppId": "android_test_app",
-	"doubleclickUseExternalBrowser": true,
+	"doubleclickUseExternalBrowser": "false",
 	"doubleClickStaticAdIsCoppaCompliant": true
 }]
