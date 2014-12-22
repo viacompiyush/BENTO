@@ -1,7 +1,7 @@
 [
 	{
 		"linkName" : "dev/bento/link",
-		"pageName" : "dev/bento/testrig",
+		"pageName" : "piyyush",
 		"channel"  : "remote sandbox channel-test",
 		"prop1"    : "remote value of prop 1",
         "prop11"    : "remote value of prop 11",
