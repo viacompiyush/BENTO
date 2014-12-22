@@ -3,7 +3,7 @@
 	{
 		"audienceManagerEnabled" : "true",
 		"omnitureEnabled" : "true",
-		"omnitureSuite"   : "",
+		"omnitureSuite"   : "viarnd",
 		"omnitureChannel" : "Channel_Test",
 		"omnitureCharSet" : "UTF-8",
 		"omnitureCurrencyCode" : "USD",
