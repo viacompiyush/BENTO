@@ -5,7 +5,7 @@
 		"omnitureEnabled" : "true",
 		"omnitureSuite"   : "test1234",
 		"omnitureChannel" : "Channel_Test",
-		"omnitureCharSet" : "ISO-8859-1",
+		"omnitureCharSet" : "UTF-8",
 		"omnitureCurrencyCode" : "USD",
 		"omnitureSSL" : "false",
 		"omnitureLifecycleSessionTimeout" : "300",
