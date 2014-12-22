@@ -4,7 +4,7 @@
 		"audienceManagerEnabled" : "true",
 		"omnitureEnabled" : "true",
 		"omnitureSuite"   : "test1234",
-		"omnitureChannel" : "Channel",
+		"omnitureChannel" : "Channel_Test",
 		"omnitureCharSet" : "ISO-8859-1",
 		"omnitureCurrencyCode" : "USD",
 		"omnitureSSL" : "false",
