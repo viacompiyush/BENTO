@@ -10,7 +10,7 @@
 		"omnitureSSL" : "false",
 		"omnitureLifecycleSessionTimeout" : "300",
 		"omnitureTrackingServer" : "sc.mtv.com",
-		"omnitureVisitorID" : "100",
+		"omnitureVisitorID" : "",
 		"omnitureDebugLogging" : "true",
 		"omnitureOfflineTrackingEnabled" : "true",
 		"omnitureOfflineHitLimit" : 200,
