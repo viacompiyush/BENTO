@@ -8,7 +8,7 @@
 		"doubleclickUseExternalBrowser":false,
 		"doubleClickStaticAdIsCoppaCompliant":true,
 		"doubleClickAdIndicatorVisible":true,
-		"doubleClickUseBumper": false,
+		"doubleClickUseBumper": true,
 		"audienceManagerEnabled":true
 	}
 ]
