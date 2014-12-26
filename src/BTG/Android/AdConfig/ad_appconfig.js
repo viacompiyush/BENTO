@@ -7,8 +7,8 @@
 		"doubleClickStaticAdAppId":"android_test_app",
 		"doubleclickUseExternalBrowser":false,
 		"doubleClickStaticAdIsCoppaCompliant":true,
-		"doubleClickAdIndicatorVisible":false,
-		"doubleClickUseBumper":true,
+		"doubleClickAdIndicatorVisible":true,
+		"doubleClickUseBumper": false,
 		"audienceManagerEnabled":true
 	}
 ]
