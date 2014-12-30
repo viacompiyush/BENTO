@@ -4,7 +4,7 @@
 		"omnitureSuite:" : "viarnd",
 		"omnitureTrackingServer" : "sc.mtv.com",
 		"doubleclickEnabled":true,
-		"DoubleClickStaticAdWebView": "",
+		"DoubleClickStaticAdWebView": "vvv",
 		"doubleClickStaticAdAppId":"android_test_app",
 		"doubleclickUseExternalBrowser":false,
 		"doubleClickStaticAdIsCoppaCompliant":false,
