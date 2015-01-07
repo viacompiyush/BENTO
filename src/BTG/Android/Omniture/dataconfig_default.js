@@ -2,6 +2,7 @@
     {
         "pageName" : "dev/bento/remote/testrig",
         "linkName" : "dev/bento/link",
+        "channel" : "Channel_Channel",
         "prop1"    : "value of prop 1",
         "eVar1"    : "value of evar 1",
         "eVar32"    : "value of evar32",
