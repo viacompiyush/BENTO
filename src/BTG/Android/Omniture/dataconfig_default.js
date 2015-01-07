@@ -1,10 +1,10 @@
 [
     {
-        "pageName" : "blah!!",
+        "pageName" : "dev/bento/remote/testrig",
         "linkName" : "dev/bento/link",
         "prop1"    : "value of prop 1",
         "eVar1"    : "value of evar 1",
-        "eVar32"    : "",
+        "eVar32"    : "value of evar32",
         "prop11"    : "value of prop 11",
         "eVar11"    : "value of evar 11",
         "prop111"    : "value of prop 111",
