@@ -18,8 +18,7 @@
 			"refreshInterval" : 10,
 			"slot" : 1234,
 			"keyValues" : {
-				"testkey"   : "key2.1",
-				"testmode" : "celtra_mobile_300x250"
+				
 			},
 			"dfpData" : {
 				"metadata" : {
