@@ -1,8 +1,7 @@
 [
     {
-	"doubleclickKeyValues":"testmode=celtra_mobile_300x50",
+	"doubleclickKeyValues":"testmode=sizmek_mraid_300x50",
 	"doubleclickAdSize":"300x50",
-	"doubleclickIsDfp":false,
 	"doubleclickSlotNumber":2,
 	"doubleclickDfpData":
         {
